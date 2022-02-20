@@ -24,7 +24,7 @@ body {
     font-size: 48px;
 }
 
-/* Change text color */
+/* Change text color center of company name */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -60,7 +60,7 @@ p {
     font-size: 16px;
 }
 
-/* Set background picture attributes  */
+/* Set background picture attributes */
 .meeting {
     height: 800px;
     width: 100%;
@@ -70,7 +70,7 @@ p {
     background-position: center;
 }
 
-/* Set main-content-style img to float  */
+/* Set main-content-style img to float */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -105,57 +105,17 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-/* 
-Comment removes redundant styling
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-*/
-   
+ 
 .benefit-section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-/* 
-Comment removes redundant styling
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-*/
 
 .benefit-section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/* 
-Comment removes redundant styling
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-*/
 
 .main-content-style {
     margin-bottom: 20px;
@@ -165,57 +125,15 @@ Comment removes redundant styling
     background-color: #0072bb;
     color: #ffffff;
 }
-/* 
-Comment removes redundant styling
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-*/
 .main-content-style img {
     max-height: 200px;
 }
 
-/* 
-Comment removes redundant styling
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-*/
 .main-content-style h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-/*
-Comment removes redundant styling
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-*/
 
 /* Set footer position and text styling */
 .footer {
@@ -233,6 +151,7 @@ Comment removes redundant styling
 /* Sets heart icon style  */
 .heart {
     padding: 3px;
+    display: inline-block;
     vertical-align: center;
     font-size: 23px;
     color: #ee2f04;    
