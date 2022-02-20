@@ -1,13 +1,16 @@
+/* Set default page layout  */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Set body backround color */
 body {
     background-color: #d9dcd6;
 }
 
+/* Set header styling */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +18,18 @@ body {
     color: #ffffff;
 }
 
+/* Set header h1 styling */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Change text color */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Set section position and text styling */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,25 +38,29 @@ body {
     font-size: 20px;
 }
 
+/* Set list marker to none */
 .header nav ul {
     list-style-type: none;
 }
-
+/* Set element position  */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Set link text styling  */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Set p element font size  */
 p {
     font-size: 16px;
 }
 
-.hero {
+/* Set background picture attributes  */
+.meeting {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -59,22 +69,26 @@ p {
     background-position: center;
 }
 
+/* Set float social media marketing and search engine optimization img to the left  */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Set float online reputation img to the right  */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Set position of main content */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Set section position and text styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,6 +100,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Set section position and text styling */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -187,7 +202,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Set footer position and text styling */
 .footer {
     padding: 30px;
     clear: both;
@@ -195,6 +210,15 @@ p {
     text-align: center;
 }
 
+/* Set footer h2 text size */
 .footer h2 {
     font-size: 20px;
+}
+
+/* Sets heart icon style  */
+.heart {
+    padding: 3px;
+    vertical-align: center;
+    font-size: 23px;
+    color: #ee2f04;    
 }
