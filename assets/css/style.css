@@ -42,6 +42,7 @@ body {
 .header nav ul {
     list-style-type: none;
 }
+
 /* Set element position  */
 .header nav ul li {
     display: inline-block;
@@ -87,8 +88,7 @@ p {
     margin-left: 20px;
 }
 
-/* Set section 
-position and text styling */
+/* Set section position and text styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,8 +100,7 @@ position and text styling */
     background-color: #2589bd;
 }
 
-/* Set benefit section 
-position and text color */
+/* Set benefit section position and text color */
 .benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
