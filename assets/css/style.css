@@ -69,13 +69,12 @@ p {
     background-position: center;
 }
 
-/* Set float social media marketing and search engine optimization img to the left  */
+/* Set main-content-style img to float  */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/* Set float online reputation img to the right  */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -88,7 +87,8 @@ p {
     margin-left: 20px;
 }
 
-/* Set section position and text styling */
+/* Set section 
+position and text styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,12 +100,15 @@ p {
     background-color: #2589bd;
 }
 
-/* Set section position and text styling */
-.benefit-lead {
+/* Set benefit section 
+position and text color */
+.benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* 
+Comment removes redundant styling
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -115,12 +118,15 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-lead h3 {
+*/
+   
+.benefit-section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* 
+Comment removes redundant styling
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -130,13 +136,15 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+*/
 
-.benefit-lead img {
+.benefit-section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* 
+Comment removes redundant styling
 .benefit-brand img {
     display: block;
     margin: 10px auto;
@@ -148,8 +156,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+*/
 
-.search-engine-optimization {
+.main-content-style {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -157,7 +166,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* 
+Comment removes redundant styling
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -175,11 +185,13 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.search-engine-optimization img {
+*/
+.main-content-style img {
     max-height: 200px;
 }
 
+/* 
+Comment removes redundant styling
 .online-reputation-management img {
     max-height: 200px;
 }
@@ -187,12 +199,14 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
-.search-engine-optimization h2 {
+*/
+.main-content-style h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*
+Comment removes redundant styling
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -202,6 +216,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+*/
+
 /* Set footer position and text styling */
 .footer {
     padding: 30px;
