@@ -20,7 +20,7 @@ Accessible Website Display
 After creating a GitHub repository for this project, I modified the existing index.html and style.css files for the Horiseon Social Media Marketing Website given to me by my instructor from the UW Coding Bootcamp to follow accessibility standards and consolidate the CSS code. The task was to produce a website that is visually the same as the original, but follows accessibility standards. See the links to my repository and the accessible website below.
 
 - [Git Hub Repository](https://github.com/areitan/SemanticMarkup)
-- [Accessible Website](https://www.example.com)
+- [Accessible Website](https://areitan.github.io/SemanticMarkup/)
 
 ### index.html
 
